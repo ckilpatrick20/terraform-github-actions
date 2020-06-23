@@ -3,7 +3,7 @@ description: 'Runs Terraform commands via GitHub Actions.'
 author: 'HashiCorp, Inc. Terraform Team <terraform@hashicorp.com>'
 branding:
   icon: 'terminal'
-  color: 'purple'
+  color: 'blue'
 inputs:
   tf_actions_subcommand:
     description: 'Terraform subcommand to execute.'
